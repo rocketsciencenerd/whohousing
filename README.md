@@ -43,3 +43,8 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+
+### Test build locally
+```shell
+npx serve dist
+```
